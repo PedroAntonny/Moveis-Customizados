@@ -12,12 +12,11 @@
 
 - [Demonstração](#tv-demonstração)
 - [Tecnologias](#hammer_and_wrench-tecnologias)
-- [Pré-requisitos](#warning-pré-requisitos)
 
 ## :tv: Demonstração
 
 <p align="center">
-  <img alt="Demonstração" src="readme/banner.png" width="600">
+  <img alt="Demonstração" src="readme/banner.png" width="800">
 </p>
 
 ## :hammer_and_wrench: Tecnologias
